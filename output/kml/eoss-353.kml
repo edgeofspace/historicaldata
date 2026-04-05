@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>EOSS-353</name>
+    <description><![CDATA[
+    <h1>EOSS-353</h1>
+    <table style="width: 100%;" cellpadding=0 cellspacing=0 border=0>
+    <tr><td style="border: solid 1px black;border-bottom: 0; padding: 10px;"><strong>Launch Local Date/Time</strong></td><td style=" padding: 10px;border: solid 1px black;border-bottom: 0; border-left: 0;">2023-12-02 14:43:20</td></tr>
+    <tr><td style="border: solid 1px black;border-bottom: 0; padding: 10px;"><strong>Flight Duration</strong></td><td style=" padding: 10px;border: solid 1px black;border-bottom: 0; border-left: 0; ">1hrs 36mins 48secs</td></tr>
+    <tr><td style="border: solid 1px black;border-bottom: 0; padding: 10px;"><strong>Down Range Distance</strong></td><td style=" padding: 10px;border: solid 1px black;border-bottom: 0; border-left: 0; ">48.3mi (77.7km)</td></tr>
+    <tr><td style="border: solid 1px black; padding: 10px;"><strong>Approx. Burst Altitude</strong></td><td style=" padding: 10px;border: solid 1px black; border-left: 0; ">72421ft (22073.9m)</td></tr>
+    </table>
+    ]]></description>
+    <Folder>
+      <name>EOSS-353</name>
+      <Folder>
+        <name>Paths</name>
+        <Placemark>
+          <name>EOSS-353 Ascent</name>
+          <Style>
+            <LineStyle>
+              <color>ff0000ff</color>
+              <width>3</width>
+            </LineStyle>
+          </Style>
+          <LineString>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-104.04205,39.60841666666667,1585.26 -104.042,39.60816666666667,1595.93 -104.04193333333333,39.60831666666667,1594.1 -104.03883333333333,39.6065,2038.2 -104.0395,39.605333333333334,2223.52 -104.03958333333334,39.605016666666664,2276.25 -104.03933333333333,39.60433333333334,2392.68 -104.03913333333334,39.6038,2448.46 -104.03833333333333,39.603,2574.95 -104.03633333333333,39.601166666666664,2743.81 -104.03416666666666,39.599,2923.64 -104.03341666666667,39.598333333333336,2984.3 -104.03133333333334,39.597166666666666,3106.52 -104.03055,39.59678333333333,3149.5 -104.02916666666667,39.595666666666666,3284.52 -104.02863333333333,39.59535,3325.37 -104.02733333333333,39.59433333333333,3474.11 -104.02533333333334,39.592666666666666,3656.69 -104.02283333333334,39.590666666666664,3823.72 -104.02246666666667,39.590333333333334,3843.53 -104.02,39.589333333333336,4001.72 -104.016,39.58866666666667,4167.53 -104.01233333333333,39.587666666666664,4330.9 -104.01203333333333,39.5876,4325.42 -104.00883333333333,39.586666666666666,4495.8 -104.00871666666667,39.58658333333334,4486.66 -104.00566666666667,39.58533333333333,4668.01 -104.00283333333333,39.58383333333333,4842.05 -103.99966666666667,39.5825,5010 -103.99663333333334,39.581316666666666,5160.57 -103.99616666666667,39.58116666666667,5196.84 -103.99266666666666,39.57983333333333,5374.84 -103.98966666666666,39.57833333333333,5561.38 -103.98583333333333,39.577333333333335,5754.62 -103.98233333333333,39.577,5949.7 -103.97948333333333,39.57638333333333,6066.74 -103.97833333333334,39.57633333333333,6134.1 -103.9752,39.57595,6247.79 -103.97416666666666,39.575833333333335,6323.99 -103.96933333333334,39.576,6532.17 -103.96566666666666,39.576166666666666,6738.21 -103.96348333333334,39.57641666666667,6859.83 -103.96233333333333,39.57666666666667,6951.57 -103.96025,39.57695,7054.9 -103.95883333333333,39.5775,7158.84 -103.95643333333334,39.57866666666666,7258.81 -103.95466666666667,39.5795,7387.44 -103.95133333333334,39.58233333333333,7589.52 -103.94925,39.58468333333333,7703.82 -103.9475,39.58566666666667,7799.83 -103.94495,39.587516666666666,7890.05 -103.94316666666667,39.58866666666667,7976.92 -103.94015,39.5904,8064.09 -103.93766666666667,39.59133333333333,8164.37 -103.93451666666667,39.59238333333334,8242.1 -103.93183333333333,39.5935,8337.19 -103.92483333333334,39.59733333333333,8532.57 -103.92115000000001,39.59876666666667,8594.14 -103.91716666666667,39.60016666666667,8725.51 -103.91398333333333,39.60143333333334,8800.19 -103.90966666666667,39.602666666666664,8942.22 -103.90713333333333,39.60313333333333,9007.14 -103.90036666666667,39.60475,9221.11 -103.8965,39.60583333333334,9408.57 -103.89133333333334,39.6085,9653.02 -103.88991666666666,39.6095,9703.31 -103.88533333333334,39.6115,9891.67 -103.884,39.61235,9924.29 -103.87833333333333,39.61416666666667,10100.77 -103.8705,39.616166666666665,10333.33 -103.86383333333333,39.617666666666665,10516.51 -103.86241666666668,39.61803333333334,10535.41 -103.8555,39.6195,10731.4 -103.84783333333333,39.62083333333333,10926.17 -103.84703333333333,39.6212,10932.26 -103.8405,39.62283333333333,11124.29 -103.83083333333333,39.625,11359.59 -103.81966666666666,39.6265,11599.77 -103.81066666666666,39.6275,11805.21 -103.80356666666667,39.62896666666666,12024.36 -103.80316666666667,39.629,12055.45 -103.79633333333334,39.629,12255.4 -103.7895,39.6305,12427.92 -103.78415000000001,39.63171666666667,12556.54 -103.783,39.6315,12607.44 -103.77818333333333,39.63223333333334,12736.68 -103.77666666666667,39.63216666666667,12795.2 -103.77198333333334,39.63296666666666,12915.6 -103.77083333333333,39.633,12993.93 -103.76433333333334,39.634,13189 -103.75945,39.6348,13286.54 -103.75733333333334,39.635,13364.57 -103.75326666666668,39.636183333333335,13525.8 -103.75116666666666,39.63666666666667,13646.81 -103.7445,39.6395,13881.51 -103.73866666666666,39.643,14080.54 -103.73511666666667,39.644816666666664,14146.68 -103.732,39.646166666666666,14234.46 -103.72840000000001,39.64810000000001,14291.77 -103.72483333333334,39.64966666666667,14384.43 -103.7213,39.65173333333333,14441.73 -103.71766666666667,39.653333333333336,14535 -103.71443333333333,39.654833333333336,14585.9 -103.71083333333333,39.656666666666666,14691.06 -103.70383333333334,39.66,14866.32 -103.69716666666666,39.662333333333336,15073.27 -103.69083333333333,39.6645,15257.37 -103.6835,39.667,15444.52 -103.675,39.669666666666664,15612.16 -103.6665,39.6715,15787.12 -103.6644,39.67203333333333,15805.1 -103.6585,39.67283333333334,15960.24 -103.65721666666667,39.673,15974.87 -103.65116666666667,39.674,16127.88 -103.65015000000001,39.67438333333334,16137.94 -103.64416666666666,39.675,16303.14 -103.6375,39.6755,16472.31 -103.63686666666666,39.67556666666667,16470.17 -103.63033333333334,39.67616666666667,16650.31 -103.623,39.67766666666667,16814.9 -103.62293333333334,39.67783333333333,16803.01 -103.61516666666667,39.67883333333333,16995.65 -103.60901666666666,39.679183333333334,17145 -103.60883333333334,39.67916666666667,17172.43 -103.6045,39.681,17346.17 -103.60201666666667,39.68206666666667,17498.26 -103.60183333333333,39.682,17549.16 -103.6005,39.682,17762.83 -103.59986666666667,39.68203333333334,17854.27 -103.5995,39.68216666666667,17957.29 -103.5978,39.68208333333334,18094.15 -103.59716666666667,39.682,18214.85 -103.5945,39.68216666666667,18389.5 -103.59275000000001,39.68226666666667,18405.35 -103.592,39.68216666666667,18557.44 -103.58883333333333,39.68266666666667,18744.59 -103.58516666666667,39.68366666666667,18946.98 -103.5826,39.68471666666667,19034.46 -103.58066666666667,39.68533333333333,19121.02 -103.57761666666667,39.686949999999996,19195.39 -103.569,39.68966666666667,19456.6 -103.56566666666667,39.69038333333334,19525.49 -103.56266666666667,39.6905,19634.3 -103.55971666666667,39.690949999999994,19682.46 -103.55683333333333,39.69116666666667,19805.6 -103.55558333333333,39.69176666666667,19888.5 -103.55383333333333,39.69266666666667,20000.06 -103.55243333333334,39.69345,20061.63 -103.55066666666667,39.69466666666667,20177.46 -103.54833333333333,39.697,20347.23 -103.54786666666666,39.69773333333333,20390.51 -103.54666666666667,39.69883333333333,20524.32 -103.54621666666667,39.69923333333334,20539.56 -103.5445,39.70016666666667,20692.57 -103.54385,39.70036666666667,20715.73 -103.54183333333333,39.70066666666666,20877.89 -103.53866666666667,39.7005,21062.59 -103.5355,39.70016666666667,21241.21 -103.53183333333334,39.699,21428.05 -103.53155,39.69865,21426.83 -103.52833333333334,39.697,21580.75 -103.52466666666666,39.695,21751.14 -103.52453333333334,39.69491666666667,21758.76 -103.52283333333334,39.693666666666665,21925.18 -103.52281666666667,39.693533333333335,21907.8 -103.52133333333333,39.693666666666665,22073.92</coordinates>
+          </LineString>
+        </Placemark>
+        <Placemark>
+          <name>EOSS-353 Descent</name>
+          <Style>
+            <LineStyle>
+              <color>ffff0000</color>
+              <width>3</width>
+            </LineStyle>
+          </Style>
+          <LineString>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-103.52133333333333,39.693666666666665,22073.92 -103.51836666666667,39.6946,21990.71 -103.51916666666666,39.6925,21435.97 -103.51583333333333,39.69166666666667,20792.24 -103.51266666666666,39.693333333333335,20210.07 -103.5105,39.69416666666667,19664.48 -103.4985,39.69733333333333,18712.59 -103.49516666666666,39.698,18234.36 -103.49366666666667,39.69883333333333,17799.41 -103.49233333333333,39.698166666666665,17362.63 -103.488,39.699,16911.22 -103.47933333333333,39.699333333333335,16476.57 -103.47116666666666,39.7,16078.2 -103.46283333333334,39.70183333333333,15705.12 -103.45283333333333,39.70483333333333,15346.98 -103.44533333333334,39.7075,14984.27 -103.43766666666667,39.71033333333333,14642.59 -103.43083333333334,39.71483333333333,14310.06 -103.42433333333334,39.718,14001.6 -103.41866666666667,39.71966666666667,13699.54 -103.41233333333334,39.721333333333334,13371.27 -103.40566666666666,39.722,13052.15 -103.40133333333333,39.72366666666667,12740.34 -103.3965,39.726166666666664,12436.14 -103.39033333333333,39.7285,12144.15 -103.38333333333334,39.72983333333333,11879.58 -103.37433333333334,39.73116666666667,11629.34 -103.3635,39.73283333333333,11394.64 -103.35383333333333,39.73533333333334,11154.77 -103.3455,39.73733333333333,10899.65 -103.33683333333333,39.739666666666665,10642.09 -103.32966666666667,39.74066666666667,10372.04 -103.32233333333333,39.74283333333333,10109.91 -103.315,39.745333333333335,9875.22 -103.30916666666667,39.748333333333335,9656.37 -103.3045,39.751333333333335,9446.67 -103.30016666666667,39.75383333333333,9240.62 -103.29483333333333,39.756,9046.46 -103.29073333333334,39.7571,8892.24 -103.28866666666667,39.757666666666665,8845.6 -103.28133333333334,39.760333333333335,8634.37 -103.27635,39.76228333333333,8471.92 -103.27383333333333,39.763666666666666,8410.35 -103.26868333333333,39.76578333333333,8250.02 -103.2665,39.767,8182.36 -103.2605,39.769666666666666,7966.56 -103.25761666666666,39.77158333333334,7830.92 -103.2555,39.77316666666667,7753.2 -103.25231666666667,39.77511666666666,7634.94 -103.25033333333333,39.7765,7566.96 -103.24658333333333,39.77888333333333,7445.04 -103.24483333333333,39.779666666666664,7395.36 -103.24,39.78183333333333,7227.42 -103.2384,39.782583333333335,7130.8 -103.2365,39.78333333333333,7066.79 -103.23451666666666,39.783366666666666,6964.98 -103.23266666666666,39.78366666666667,6896.4 -103.23116666666667,39.78338333333333,6796.74 -103.22916666666667,39.78366666666667,6723.58 -103.226,39.7835,6559.91 -103.22540000000001,39.783516666666664,6475.78 -103.22256666666667,39.7837,6308.75 -103.2215,39.783833333333334,6221.58 -103.22095,39.7837,6139.89 -103.21983333333333,39.783166666666666,6044.18 -103.21783333333333,39.783166666666666,5874.72 -103.21723333333334,39.78325,5808.88 -103.21516666666666,39.7825,5709.21 -103.21485,39.78213333333333,5654.65 -103.21366666666667,39.781666666666666,5547.06 -103.21311666666666,39.78163333333333,5497.68 -103.21083333333333,39.780833333333334,5374.23 -103.20783333333334,39.779833333333336,5207.81 -103.20753333333333,39.77978333333333,5169.71 -103.20516666666667,39.77883333333333,5041.39 -103.20493333333334,39.77885,5008.78 -103.203,39.77766666666667,4870.4 -103.20273333333334,39.77776666666667,4843.58 -103.2,39.77633333333333,4708.25 -103.1999,39.776316666666666,4686.6 -103.19716666666666,39.77466666666667,4543.65 -103.19718333333333,39.77465,4527.5 -103.19415000000001,39.7729,4363.52 -103.194,39.77283333333333,4372.97 -103.1911,39.77121666666667,4195.57 -103.19083333333333,39.771,4203.19 -103.1884,39.76958333333334,4047.44 -103.18816666666666,39.7695,4055.06 -103.18545,39.76801666666667,3901.44 -103.185,39.767833333333336,3899.31 -103.18276666666667,39.76651666666667,3763.37 -103.18233333333333,39.766333333333336,3762.45 -103.17983333333333,39.76466666666666,3615.23 -103.17830000000001,39.763616666666664,3481.43 -103.17766666666667,39.7635,3458.57 -103.17601666666667,39.76235,3317.44 -103.17393333333334,39.761100000000006,3153.46 -103.17366666666666,39.76083333333333,3120.24 -103.17193333333334,39.7602,2997.4 -103.1715,39.75966666666667,2958.08 -103.16966666666667,39.7595,2814.22 -103.1685,39.75866666666667,2683.76 -103.16761666666667,39.7579,2580.44 -103.1665,39.7575,2528.01 -103.16496666666667,39.7568,2433.22 -103.16366666666667,39.756166666666665,2377.74 -103.16238333333334,39.7552,2283.26 -103.1615,39.75416666666667,2218.64 -103.15866666666666,39.7525,2069.9 -103.1565,39.7505,1929.08 -103.15595,39.749316666666665,1856.23 -103.1555,39.74783333333333,1793.75 -103.15521666666667,39.74688333333334,1733.09 -103.15366666666667,39.74583333333333,1660.25 -103.1515,39.74483333333333,1523.7 -103.15123333333334,39.744600000000005,1467.31 -103.15128333333334,39.744600000000005,1467.31</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Waypoints</name>
+        <Placemark>
+          <name>10k</name>
+          <description><![CDATA[<h1>Waypoint</h1>
+        <table style="width: 100%;" cellpadding=0 cellspacing=0 border=0>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Local Time</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">14:48:00</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Altitude</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">10192ft (3106.5m)</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;"><strong>Coordinates</strong></td><td style="border: solid 1px black; border-left: 0; padding: 10px;">39.59716667, -104.03133333</td></tr>
+        </table>]]></description>
+          <Style>
+            <IconStyle>
+              <color>ff0000ff</color>
+              <Icon>
+                <href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-104.03133333333334,39.597166666666666,3106.52</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>20k</name>
+          <description><![CDATA[<h1>Waypoint</h1>
+        <table style="width: 100%;" cellpadding=0 cellspacing=0 border=0>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Local Time</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">14:56:23</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Altitude</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">19904ft (6066.7m)</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;"><strong>Coordinates</strong></td><td style="border: solid 1px black; border-left: 0; padding: 10px;">39.57638333, -103.97948333</td></tr>
+        </table>]]></description>
+          <Style>
+            <IconStyle>
+              <color>ff0000ff</color>
+              <Icon>
+                <href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-103.97948333333333,39.57638333333333,6066.74</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>30k</name>
+          <description><![CDATA[<h1>Waypoint</h1>
+        <table style="width: 100%;" cellpadding=0 cellspacing=0 border=0>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Local Time</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">15:04:11</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Altitude</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">30253ft (9221.1m)</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;"><strong>Coordinates</strong></td><td style="border: solid 1px black; border-left: 0; padding: 10px;">39.60475000, -103.90036667</td></tr>
+        </table>]]></description>
+          <Style>
+            <IconStyle>
+              <color>ff0000ff</color>
+              <Icon>
+                <href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-103.90036666666667,39.60475,9221.11</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>40k</name>
+          <description><![CDATA[<h1>Waypoint</h1>
+        <table style="width: 100%;" cellpadding=0 cellspacing=0 border=0>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Local Time</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">15:11:00</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Altitude</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">40208ft (12255.4m)</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;"><strong>Coordinates</strong></td><td style="border: solid 1px black; border-left: 0; padding: 10px;">39.62900000, -103.79633333</td></tr>
+        </table>]]></description>
+          <Style>
+            <IconStyle>
+              <color>ff0000ff</color>
+              <Icon>
+                <href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-103.79633333333334,39.629,12255.4</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>50k</name>
+          <description><![CDATA[<h1>Waypoint</h1>
+        <table style="width: 100%;" cellpadding=0 cellspacing=0 border=0>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Local Time</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">15:19:00</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Altitude</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">50057ft (15257.4m)</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;"><strong>Coordinates</strong></td><td style="border: solid 1px black; border-left: 0; padding: 10px;">39.66450000, -103.69083333</td></tr>
+        </table>]]></description>
+          <Style>
+            <IconStyle>
+              <color>ff0000ff</color>
+              <Icon>
+                <href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-103.69083333333333,39.6645,15257.37</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>60k</name>
+          <description><![CDATA[<h1>Waypoint</h1>
+        <table style="width: 100%;" cellpadding=0 cellspacing=0 border=0>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Local Time</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">15:27:00</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Altitude</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">59760ft (18214.8m)</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;"><strong>Coordinates</strong></td><td style="border: solid 1px black; border-left: 0; padding: 10px;">39.68200000, -103.59716667</td></tr>
+        </table>]]></description>
+          <Style>
+            <IconStyle>
+              <color>ff0000ff</color>
+              <Icon>
+                <href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-103.59716666666667,39.682,18214.85</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>70k</name>
+          <description><![CDATA[<h1>Waypoint</h1>
+        <table style="width: 100%;" cellpadding=0 cellspacing=0 border=0>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Local Time</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">15:36:05</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Altitude</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">70298ft (21426.8m)</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;"><strong>Coordinates</strong></td><td style="border: solid 1px black; border-left: 0; padding: 10px;">39.69865000, -103.53155000</td></tr>
+        </table>]]></description>
+          <Style>
+            <IconStyle>
+              <color>ff0000ff</color>
+              <Icon>
+                <href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-103.53155,39.69865,21426.83</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>10k</name>
+          <description><![CDATA[<h1>Waypoint</h1>
+        <table style="width: 100%;" cellpadding=0 cellspacing=0 border=0>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Local Time</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">16:13:51</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Altitude</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">9834ft (2997.4m)</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;"><strong>Coordinates</strong></td><td style="border: solid 1px black; border-left: 0; padding: 10px;">39.76020000, -103.17193333</td></tr>
+        </table>]]></description>
+          <Style>
+            <IconStyle>
+              <color>ffff0000</color>
+              <Icon>
+                <href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-103.17193333333334,39.7602,2997.4</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>20k</name>
+          <description><![CDATA[<h1>Waypoint</h1>
+        <table style="width: 100%;" cellpadding=0 cellspacing=0 border=0>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Local Time</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">16:04:11</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Altitude</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">20144ft (6139.9m)</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;"><strong>Coordinates</strong></td><td style="border: solid 1px black; border-left: 0; padding: 10px;">39.78370000, -103.22095000</td></tr>
+        </table>]]></description>
+          <Style>
+            <IconStyle>
+              <color>ffff0000</color>
+              <Icon>
+                <href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-103.22095,39.7837,6139.89</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>30k</name>
+          <description><![CDATA[<h1>Waypoint</h1>
+        <table style="width: 100%;" cellpadding=0 cellspacing=0 border=0>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Local Time</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">15:56:00</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Altitude</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">30317ft (9240.6m)</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;"><strong>Coordinates</strong></td><td style="border: solid 1px black; border-left: 0; padding: 10px;">39.75383333, -103.30016667</td></tr>
+        </table>]]></description>
+          <Style>
+            <IconStyle>
+              <color>ffff0000</color>
+              <Icon>
+                <href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-103.30016666666667,39.75383333333333,9240.62</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>40k</name>
+          <description><![CDATA[<h1>Waypoint</h1>
+        <table style="width: 100%;" cellpadding=0 cellspacing=0 border=0>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Local Time</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">15:50:00</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Altitude</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">39843ft (12144.1m)</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;"><strong>Coordinates</strong></td><td style="border: solid 1px black; border-left: 0; padding: 10px;">39.72850000, -103.39033333</td></tr>
+        </table>]]></description>
+          <Style>
+            <IconStyle>
+              <color>ffff0000</color>
+              <Icon>
+                <href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-103.39033333333333,39.7285,12144.15</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>50k</name>
+          <description><![CDATA[<h1>Waypoint</h1>
+        <table style="width: 100%;" cellpadding=0 cellspacing=0 border=0>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Local Time</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">15:45:00</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Altitude</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">50351ft (15347.0m)</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;"><strong>Coordinates</strong></td><td style="border: solid 1px black; border-left: 0; padding: 10px;">39.70483333, -103.45283333</td></tr>
+        </table>]]></description>
+          <Style>
+            <IconStyle>
+              <color>ffff0000</color>
+              <Icon>
+                <href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-103.45283333333333,39.70483333333333,15346.98</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>60k</name>
+          <description><![CDATA[<h1>Waypoint</h1>
+        <table style="width: 100%;" cellpadding=0 cellspacing=0 border=0>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Local Time</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">15:41:30</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Altitude</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">59824ft (18234.4m)</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;"><strong>Coordinates</strong></td><td style="border: solid 1px black; border-left: 0; padding: 10px;">39.69800000, -103.49516667</td></tr>
+        </table>]]></description>
+          <Style>
+            <IconStyle>
+              <color>ffff0000</color>
+              <Icon>
+                <href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-103.49516666666666,39.698,18234.36</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>70k</name>
+          <description><![CDATA[<h1>Waypoint</h1>
+        <table style="width: 100%;" cellpadding=0 cellspacing=0 border=0>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Local Time</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">15:38:30</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Altitude</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">70328ft (21436.0m)</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;"><strong>Coordinates</strong></td><td style="border: solid 1px black; border-left: 0; padding: 10px;">39.69250000, -103.51916667</td></tr>
+        </table>]]></description>
+          <Style>
+            <IconStyle>
+              <color>ffff0000</color>
+              <Icon>
+                <href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-103.51916666666666,39.6925,21435.97</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Points of Interest</name>
+        <Placemark>
+          <name>Launch</name>
+          <description><![CDATA[<h1>Launch</h1>
+    <table style="width: 100%;" cellpadding=0 cellspacing=0 border=0>
+    <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Local Time</strong></td><td style="border: solid 1px black;border-bottom: 0; border-left: 0; padding: 10px;">14:43:20</td></tr>
+    <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Altitude</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">5201ft (1585.3m)</td></tr>
+    <tr><td style="padding: 10px; border: solid 1px black;"><strong>Coordinates</strong></td><td style="border: solid 1px black; border-left: 0; padding: 10px;">39.60841667, -104.04205000</td></tr>
+    </table>]]></description>
+          <Style>
+            <IconStyle>
+              <color>ff00aaff</color>
+              <Icon>
+                <href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-104.04205,39.60841666666667,1585.26</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Landing</name>
+          <description><![CDATA[<h1>Landing</h1>
+    <table style="width: 100%;" cellpadding=0 cellspacing=0 border=0>
+    <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Local Time</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">16:20:08</td></tr>
+    <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Altitude</strong></td><td style="border: solid 1px black;border-bottom: 0; border-left: 0; padding: 10px;">4814ft (1467.3m)</td></tr>
+    <tr><td style="padding: 10px; border: solid 1px black;"><strong>Coordinates</strong></td><td style="border: solid 1px black; border-left: 0; padding: 10px;">39.74460000, -103.15128333</td></tr>
+    </table>]]></description>
+          <Style>
+            <IconStyle>
+              <color>ff00aaff</color>
+              <Icon>
+                <href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-103.15128333333334,39.744600000000005,1467.31</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Burst 72421ft</name>
+          <description><![CDATA[<h1>Burst: 72421ft</h1>
+    <table style="width: 100%;" cellpadding=0 cellspacing=0 border=0>
+    <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Local Time</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">15:38:00</td></tr>
+    <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Altitude</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">72421ft (22073.9m)</td></tr>
+    <tr><td style="padding: 10px; border: solid 1px black;"><strong>Coordinates</strong></td><td style="border: solid 1px black; border-left: 0; padding: 10px;">39.69366667, -103.52133333</td></tr>
+    </table>]]></description>
+          <Style>
+            <IconStyle>
+              <color>ff00ffff</color>
+              <Icon>
+                <href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-103.52133333333333,39.693666666666665,22073.92</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>17k, Laminar-to-Turbulent</name>
+          <description><![CDATA[<h1>Airflow Transitioning from Laminar-to-Turbulent</h1>
+        <table style="width: 100%;" cellpadding=0 cellspacing=0 border=0>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Local Time</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">14:53:58</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Altitude</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">16931ft (5160.6m)</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;"><strong>Coordinates</strong></td><td style="border: solid 1px black; border-left: 0; padding: 10px;">39.58131667, -103.99663333</td></tr>
+        </table>]]></description>
+          <Style>
+            <IconStyle>
+              <color>ff006400</color>
+              <Icon>
+                <href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-103.99663333333334,39.581316666666666,5160.57</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>46k, Turbulent-to-Laminar</name>
+          <description><![CDATA[<h1>Airflow Transitioning from Turbulent-to-Laminar</h1>
+        <table style="width: 100%;" cellpadding=0 cellspacing=0 border=0>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Local Time</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">15:15:30</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;border-bottom: 0;"><strong>Altitude</strong></td><td style="border: solid 1px black;border-left: 0; border-bottom: 0; padding: 10px;">46196ft (14080.5m)</td></tr>
+        <tr><td style="padding: 10px; border: solid 1px black;"><strong>Coordinates</strong></td><td style="border: solid 1px black; border-left: 0; padding: 10px;">39.64300000, -103.73866667</td></tr>
+        </table>]]></description>
+          <Style>
+            <IconStyle>
+              <color>ff006400</color>
+              <Icon>
+                <href>https://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+              </Icon>
+            </IconStyle>
+          </Style>
+          <Point>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>-103.73866666666666,39.643,14080.54</coordinates>
+          </Point>
+        </Placemark>
+      </Folder>
+    </Folder>
+  </Document>
+</kml>
