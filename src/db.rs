@@ -37,7 +37,7 @@ const QUERY_SQL: &str = r#"
         date_trunc('milliseconds', a.tm)::timestamp without time zone as receivetime,
         case
             when a.raw similar to '%[0-9]{6}h%' then
-                date_trunc('milliseconds', ((to_timestamp(a.tm::date || ' ' || substring(a.raw from position('h' in a.raw) - 6 for 6), 'YYYY-MM-DD HH24MISS')::timestamp at time zone $1) at time zone $1)::timestamp)::timestamp without time zone
+                date_trunc('milliseconds', ((to_timestamp(a.tm::date || ' ' || substring(a.raw from position('h' in a.raw) - 6 for 6), 'YYYY-MM-DD HH24MISS')::timestamp at time zone 'UTC') at time zone $1)::timestamp)::timestamp without time zone
             else
                 date_trunc('milliseconds', a.tm)::timestamp without time zone
         end as packettime,
@@ -85,6 +85,7 @@ const QUERY_SQL: &str = r#"
         a.tm > $2 and a.tm < $3
         and a.callsign = ANY($4)
         and a.raw not like '%WA0GEH-10%'
+        and a.raw not like '%%000000h1234.56N/12345.67%%'
 
     order by
         1, 2
